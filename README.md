@@ -8,10 +8,13 @@ Neste repositório contém os dados dos experimentos realizados no artigo: Qual 
 Para citar esse trabalho:
 
 ```
-@inproceedings{veiga2019qual,
-  title={Qual Técnica de Learning Analytics Usar para Prever o Desempenho Acadêmico de Estudantes? Uma Análise Comparativa Experimental com Dados de MOOCs},
-  author={Veiga, Welington and Machado, Marcelo and Siqueira, Sean},
+@inproceedings{silva2019tecnica,
+  title={Qual T{\'e}cnica de Learning Analytics Usar para Prever o Desempenho Acad{\^e}mico de Estudantes? Uma An{\'a}lise Comparativa Experimental com Dados de MOOCs},
+  author={Silva, Welington and Machado, Marcelo and Siqueira, Sean},
   booktitle={Brazilian Symposium on Computers in Education (Simp{\'o}sio Brasileiro de Inform{\'a}tica na Educa{\c{c}}{\~a}o-SBIE)},
+  volume={30},
+  number={1},
+  pages={1391},
   year={2019}
 }
 ```
